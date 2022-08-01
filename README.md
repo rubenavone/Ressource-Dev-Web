@@ -23,7 +23,7 @@
   - [Formation WordPress : Créer votre site web professionnel de A à Z](https://www.youtube.com/watch?v=ovZPJH4EQ2M)     
 ## Coté JavaScript:
   - [Base Grafik Art](https://grafikart.fr/formations/debuter-javascript)
-  - [Base Code Academy Anglais](https://youtu.be/PkZNo7MFNFg (Learn JavaScript - Full Course for Beginners)
+  - [Base Code Academy Anglais](https://youtu.be/PkZNo7MFNFg)
 ## Framework:
  - ### React:
   - [Base Grafik Art](https://grafikart.fr/formations/react)
