@@ -2,21 +2,26 @@
 # Ressource pour apprendre:
 ## Je souhaite ajouter des ressources
 
-Génial, tu souahaite me filer un coup de main, c'est vraiment sympa.  
-Premièrement je vais te dire ce qu'il est possible de faire.  
+Génial, tu souahaite me filer un coup de main, c'est vraiment sympa.
+
+Premièrement je vais te dire ce qu'il est possible de faire.
 	Ajouter des ressources qui sont en lien avec la STACK DWWM.  
-	PHP 
-	SQL 
-	HTML/CSS 
-	JavaScript 
-	Design  
-	Conception 
-	Correction des fautes 
-Ensuite il faudra évidement respecter certaine règles.  
-	Vérifier qu'il n'y a pas déjà le lien (On évite les doublons).  
-	Il faudra écrire en Markdown sinon github ne comprend pas.  
-		[Markdown pour GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)   
-	Pense à bien vérifier, avec la preview du site que tout est ok avant d'envoyer la pull request.
+	PHP   
+	SQL    
+	HTML/CSS  
+	JavaScript   
+	Design    
+	Conception   
+	Correction des fautes
+	
+Ensuite il faudra évidement respecter certaine règles.
+
+Vérifier qu'il n'y a pas déjà le lien (On évite les doublons).  
+Il faudra écrire en Markdown sinon github ne comprend pas.  
+[Markdown pour GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+Pense à bien vérifier, avec la preview du site que tout est ok avant d'envoyer la pull request. 
+
 Merci d'avance pour votre participation.
 --
 
