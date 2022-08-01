@@ -2,10 +2,11 @@
 # Ressource pour apprendre:
 ## Je souhaite ajouter des ressources
 
-Génial, tu souahaite me filer un coup de main, c'est vraiment sympa.
+Génial, tu souahaite me filer un coup de main, c'est vraiment sympa.  
 
 Premièrement je vais te dire ce qu'il est possible de faire.
-	Ajouter des ressources qui sont en lien avec la STACK DWWM.  
+
+Ajouter des ressources qui sont en lien avec la STACK DWWM.  
 	PHP   
 	SQL    
 	HTML/CSS  
